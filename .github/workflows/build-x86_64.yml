@@ -44,7 +44,6 @@ jobs:
             "manifests/com.qq.weixin/com.qq.weixin.yml"
             "manifests/cn.wps.office/cn.wps.office.yml"
             "manifests/com.qq.qq/com.qq.qq.yml"
-            "manifests/com.qq.docs/com.qq.docs.yml"
             "manifests/com.qq.qqmusic/com.qq.qqmusic.yml"
             "manifests/io.github.c0re100.qbittorrent-enhanced-edition/io.github.c0re100.qbittorrent-enhanced-edition.yml"
             "manifests/io.github.msojocs.bilibili/io.github.msojocs.bilibili.yml"
