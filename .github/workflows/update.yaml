@@ -23,7 +23,6 @@ jobs:
           - top.jtmonster.jhentai
           - com.xiaoyaocz.simplelive
           - cn.wps.office
-          - com.qq.docs
           - com.qq.weixin
           - com.qq.qqmusic
           - io.github.c0re100.qbittorrent-enhanced-edition
